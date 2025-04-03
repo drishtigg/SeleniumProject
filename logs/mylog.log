@@ -1,0 +1,222 @@
+[INFO ] 2025-03-20 16:21:20.416 [main] qacontainerui - Browser launched: chrome
+[INFO ] 2025-03-20 16:21:23.430 [main] qacontainerui - url open
+[INFO ] 2025-03-20 16:21:26.130 [main] qacontainerui - Entered username Successfully
+[INFO ] 2025-03-20 16:21:26.308 [main] qacontainerui - Entered password Successfully
+[INFO ] 2025-03-20 16:21:26.478 [main] qacontainerui - Clicked On Login Button
+[INFO ] 2025-03-20 16:21:27.334 [main] qacontainerui - Home screen text is visible
+[INFO ] 2025-03-20 16:21:27.498 [main] qacontainerui - Dashboard menu button clicked successfully
+[INFO ] 2025-03-20 16:21:27.842 [main] qacontainerui - Planning solution clicked successfully
+[INFO ] 2025-03-20 16:21:28.127 [main] qacontainerui - Logistic Planning clicked successfully
+[INFO ] 2025-03-20 16:21:28.534 [main] qacontainerui - Transporter Performance Index tab clicked successfully
+[INFO ] 2025-03-20 16:21:30.241 [main] qacontainerui - click year field Successfully
+[INFO ] 2025-03-20 16:21:33.342 [main] qacontainerui - Year Entered Successfully
+[INFO ] 2025-03-20 16:21:35.504 [main] qacontainerui - click month field successfully
+[INFO ] 2025-03-20 16:21:38.180 [main] qacontainerui - Month selected Successfully
+[INFO ] 2025-03-20 16:21:42.882 [main] qacontainerui - plant selected Successfully
+[INFO ] 2025-03-20 16:21:45.569 [main] qacontainerui - Load Scenario Button Clicked Successfully
+[INFO ] 2025-03-20 16:23:33.725 [main] qacontainerui - Browser launched: chrome
+[INFO ] 2025-03-20 16:23:34.156 [main] qacontainerui - url open
+[INFO ] 2025-03-20 16:24:36.098 [main] qacontainerui - Entered username Successfully
+[INFO ] 2025-03-20 16:24:36.242 [main] qacontainerui - Entered password Successfully
+[INFO ] 2025-03-20 16:24:36.675 [main] qacontainerui - Clicked On Login Button
+[INFO ] 2025-03-20 16:24:38.969 [main] qacontainerui - Home screen text is visible
+[INFO ] 2025-03-20 16:24:39.131 [main] qacontainerui - Dashboard menu button clicked successfully
+[INFO ] 2025-03-20 16:24:40.388 [main] qacontainerui - Planning solution clicked successfully
+[INFO ] 2025-03-20 16:24:45.092 [main] qacontainerui - Logistic Planning clicked successfully
+[INFO ] 2025-03-20 16:24:45.479 [main] qacontainerui - Transporter Performance Index tab clicked successfully
+[INFO ] 2025-03-20 16:24:47.549 [main] qacontainerui - click year field Successfully
+[INFO ] 2025-03-20 16:24:49.730 [main] qacontainerui - Year Entered Successfully
+[INFO ] 2025-03-20 16:24:52.011 [main] qacontainerui - click month field successfully
+[INFO ] 2025-03-20 16:24:54.409 [main] qacontainerui - Month selected Successfully
+[INFO ] 2025-03-20 16:24:56.901 [main] qacontainerui - plant selected Successfully
+[INFO ] 2025-03-20 16:24:59.267 [main] qacontainerui - Load Scenario Button Clicked Successfully
+[INFO ] 2025-03-20 16:25:14.987 [main] qacontainerui - selecting or creating scenerio is done
+[INFO ] 2025-03-20 16:30:27.154 [main] qacontainerui - Browser launched: chrome
+[INFO ] 2025-03-20 16:31:23.000 [main] qacontainerui - url open
+[INFO ] 2025-03-20 16:31:25.836 [main] qacontainerui - Entered username Successfully
+[INFO ] 2025-03-20 16:31:25.965 [main] qacontainerui - Entered password Successfully
+[INFO ] 2025-03-20 16:31:26.099 [main] qacontainerui - Clicked On Login Button
+[INFO ] 2025-03-20 16:31:29.124 [main] qacontainerui - Home screen text is visible
+[INFO ] 2025-03-20 16:31:29.443 [main] qacontainerui - Dashboard menu button clicked successfully
+[INFO ] 2025-03-20 16:31:30.282 [main] qacontainerui - Planning solution clicked successfully
+[INFO ] 2025-03-20 16:31:34.976 [main] qacontainerui - Logistic Planning clicked successfully
+[INFO ] 2025-03-20 16:31:36.272 [main] qacontainerui - Transporter Performance Index tab clicked successfully
+[INFO ] 2025-03-20 16:31:38.206 [main] qacontainerui - click year field Successfully
+[INFO ] 2025-03-20 16:31:40.349 [main] qacontainerui - Year Entered Successfully
+[INFO ] 2025-03-20 16:31:42.503 [main] qacontainerui - click month field successfully
+[INFO ] 2025-03-20 16:31:45.402 [main] qacontainerui - Month selected Successfully
+[INFO ] 2025-03-20 16:32:43.921 [main] qacontainerui - Browser launched: chrome
+[INFO ] 2025-03-20 16:32:46.561 [main] qacontainerui - url open
+[INFO ] 2025-03-20 16:32:48.688 [main] qacontainerui - Entered username Successfully
+[INFO ] 2025-03-20 16:32:48.931 [main] qacontainerui - Entered password Successfully
+[INFO ] 2025-03-20 16:32:49.478 [main] qacontainerui - Clicked On Login Button
+[INFO ] 2025-03-20 16:32:50.385 [main] qacontainerui - Home screen text is visible
+[INFO ] 2025-03-20 16:32:50.656 [main] qacontainerui - Dashboard menu button clicked successfully
+[INFO ] 2025-03-20 16:32:51.209 [main] qacontainerui - Planning solution clicked successfully
+[INFO ] 2025-03-20 16:32:51.555 [main] qacontainerui - Logistic Planning clicked successfully
+[INFO ] 2025-03-20 16:32:51.953 [main] qacontainerui - Transporter Performance Index tab clicked successfully
+[INFO ] 2025-03-20 16:32:53.804 [main] qacontainerui - click year field Successfully
+[INFO ] 2025-03-20 16:32:55.812 [main] qacontainerui - Year Entered Successfully
+[INFO ] 2025-03-20 16:32:58.010 [main] qacontainerui - click month field successfully
+[INFO ] 2025-03-20 16:33:00.580 [main] qacontainerui - Month selected Successfully
+[INFO ] 2025-03-20 16:33:03.032 [main] qacontainerui - plant selected Successfully
+[INFO ] 2025-03-20 16:33:05.240 [main] qacontainerui - Load Scenario Button Clicked Successfully
+[INFO ] 2025-03-20 16:33:20.395 [main] qacontainerui - selecting or creating scenerio is done
+[INFO ] 2025-03-20 16:34:20.562 [main] qacontainerui - Browser launched: chrome
+[INFO ] 2025-03-20 16:34:23.443 [main] qacontainerui - url open
+[INFO ] 2025-03-20 16:34:26.723 [main] qacontainerui - Entered username Successfully
+[INFO ] 2025-03-20 16:34:27.000 [main] qacontainerui - Entered password Successfully
+[INFO ] 2025-03-20 16:34:27.201 [main] qacontainerui - Clicked On Login Button
+[INFO ] 2025-03-20 16:34:27.855 [main] qacontainerui - Home screen text is visible
+[INFO ] 2025-03-20 16:34:28.025 [main] qacontainerui - Dashboard menu button clicked successfully
+[INFO ] 2025-03-20 16:34:28.433 [main] qacontainerui - Planning solution clicked successfully
+[INFO ] 2025-03-20 16:34:28.771 [main] qacontainerui - Logistic Planning clicked successfully
+[INFO ] 2025-03-20 16:34:29.146 [main] qacontainerui - Transporter Performance Index tab clicked successfully
+[INFO ] 2025-03-20 16:34:31.395 [main] qacontainerui - click year field Successfully
+[INFO ] 2025-03-20 16:34:33.437 [main] qacontainerui - Year Entered Successfully
+[INFO ] 2025-03-20 16:34:35.688 [main] qacontainerui - click month field successfully
+[INFO ] 2025-03-20 16:34:38.121 [main] qacontainerui - Month selected Successfully
+[INFO ] 2025-03-20 16:35:15.694 [main] qacontainerui - Browser launched: chrome
+[INFO ] 2025-03-20 16:35:18.724 [main] qacontainerui - url open
+[INFO ] 2025-03-20 16:35:21.433 [main] qacontainerui - Entered username Successfully
+[INFO ] 2025-03-20 16:35:21.595 [main] qacontainerui - Entered password Successfully
+[INFO ] 2025-03-20 16:35:21.712 [main] qacontainerui - Clicked On Login Button
+[INFO ] 2025-03-20 16:35:22.630 [main] qacontainerui - Home screen text is visible
+[INFO ] 2025-03-20 16:35:22.818 [main] qacontainerui - Dashboard menu button clicked successfully
+[INFO ] 2025-03-20 16:35:23.190 [main] qacontainerui - Planning solution clicked successfully
+[INFO ] 2025-03-20 16:35:23.432 [main] qacontainerui - Logistic Planning clicked successfully
+[INFO ] 2025-03-20 16:35:23.876 [main] qacontainerui - Transporter Performance Index tab clicked successfully
+[INFO ] 2025-03-20 16:35:26.115 [main] qacontainerui - click year field Successfully
+[INFO ] 2025-03-20 16:35:28.108 [main] qacontainerui - Year Entered Successfully
+[INFO ] 2025-03-20 16:35:30.307 [main] qacontainerui - click month field successfully
+[INFO ] 2025-03-20 16:35:32.905 [main] qacontainerui - Month selected Successfully
+[INFO ] 2025-03-20 16:37:30.750 [main] qacontainerui - Browser launched: chrome
+[INFO ] 2025-03-20 16:38:17.387 [main] qacontainerui - url open
+[INFO ] 2025-03-20 16:38:20.112 [main] qacontainerui - Entered username Successfully
+[INFO ] 2025-03-20 16:38:20.302 [main] qacontainerui - Entered password Successfully
+[INFO ] 2025-03-20 16:38:20.450 [main] qacontainerui - Clicked On Login Button
+[INFO ] 2025-03-20 16:38:23.275 [main] qacontainerui - Home screen text is visible
+[INFO ] 2025-03-20 16:38:23.423 [main] qacontainerui - Dashboard menu button clicked successfully
+[INFO ] 2025-03-20 16:38:24.412 [main] qacontainerui - Planning solution clicked successfully
+[INFO ] 2025-03-20 16:38:28.805 [main] qacontainerui - Logistic Planning clicked successfully
+[INFO ] 2025-03-20 16:38:29.954 [main] qacontainerui - Transporter Performance Index tab clicked successfully
+[INFO ] 2025-03-20 16:38:32.954 [main] qacontainerui - click year field Successfully
+[INFO ] 2025-03-20 16:38:34.983 [main] qacontainerui - Year Entered Successfully
+[INFO ] 2025-03-20 16:38:37.298 [main] qacontainerui - click month field successfully
+[INFO ] 2025-03-20 16:38:39.587 [main] qacontainerui - Month selected Successfully
+[INFO ] 2025-03-20 16:38:42.110 [main] qacontainerui - plant selected Successfully
+[INFO ] 2025-03-20 16:38:44.383 [main] qacontainerui - Load Scenario Button Clicked Successfully
+[INFO ] 2025-03-20 16:38:59.574 [main] qacontainerui - selecting or creating scenerio is done
+[INFO ] 2025-03-20 16:40:37.541 [main] qacontainerui - Browser launched: chrome
+[INFO ] 2025-03-20 16:40:40.450 [main] qacontainerui - url open
+[INFO ] 2025-03-20 16:40:42.587 [main] qacontainerui - Entered username Successfully
+[INFO ] 2025-03-20 16:40:43.111 [main] qacontainerui - Entered password Successfully
+[INFO ] 2025-03-20 16:40:43.512 [main] qacontainerui - Clicked On Login Button
+[INFO ] 2025-03-20 16:40:44.396 [main] qacontainerui - Home screen text is visible
+[INFO ] 2025-03-20 16:40:44.528 [main] qacontainerui - Dashboard menu button clicked successfully
+[INFO ] 2025-03-20 16:40:44.915 [main] qacontainerui - Planning solution clicked successfully
+[INFO ] 2025-03-20 16:40:45.341 [main] qacontainerui - Logistic Planning clicked successfully
+[INFO ] 2025-03-20 16:40:45.726 [main] qacontainerui - Transporter Performance Index tab clicked successfully
+[INFO ] 2025-03-20 16:40:49.375 [main] qacontainerui - click year field Successfully
+[INFO ] 2025-03-20 16:40:52.511 [main] qacontainerui - Year Entered Successfully
+[INFO ] 2025-03-20 16:40:54.677 [main] qacontainerui - click month field successfully
+[INFO ] 2025-03-20 16:40:56.973 [main] qacontainerui - Month selected Successfully
+[INFO ] 2025-03-20 16:40:59.501 [main] qacontainerui - plant selected Successfully
+[INFO ] 2025-03-20 16:41:01.728 [main] qacontainerui - Load Scenario Button Clicked Successfully
+[INFO ] 2025-03-20 16:41:16.821 [main] qacontainerui - selecting or creating scenerio is done
+[INFO ] 2025-03-20 16:50:14.821 [main] qacontainerui - Browser launched: chrome
+[INFO ] 2025-03-20 16:50:15.677 [main] qacontainerui - url open
+[INFO ] 2025-03-20 16:51:00.232 [main] qacontainerui - Entered username Successfully
+[INFO ] 2025-03-20 16:51:00.482 [main] qacontainerui - Entered password Successfully
+[INFO ] 2025-03-20 16:51:01.463 [main] qacontainerui - Clicked On Login Button
+[INFO ] 2025-03-20 16:51:03.766 [main] qacontainerui - Home screen text is visible
+[INFO ] 2025-03-20 16:51:04.037 [main] qacontainerui - Dashboard menu button clicked successfully
+[INFO ] 2025-03-20 16:51:04.962 [main] qacontainerui - Planning solution clicked successfully
+[INFO ] 2025-03-20 16:51:10.329 [main] qacontainerui - Logistic Planning clicked successfully
+[INFO ] 2025-03-20 16:51:10.646 [main] qacontainerui - Transporter Performance Index tab clicked successfully
+[INFO ] 2025-03-20 16:51:13.049 [main] qacontainerui - click year field Successfully
+[INFO ] 2025-03-20 16:51:14.990 [main] qacontainerui - Year Entered Successfully
+[INFO ] 2025-03-20 16:51:17.134 [main] qacontainerui - click month field successfully
+[INFO ] 2025-03-20 16:51:19.399 [main] qacontainerui - Month selected Successfully
+[INFO ] 2025-03-20 16:52:46.212 [main] qacontainerui - Browser launched: chrome
+[INFO ] 2025-03-20 16:52:49.292 [main] qacontainerui - url open
+[INFO ] 2025-03-20 16:52:52.904 [main] qacontainerui - Entered username Successfully
+[INFO ] 2025-03-20 16:52:53.091 [main] qacontainerui - Entered password Successfully
+[INFO ] 2025-03-20 16:52:53.312 [main] qacontainerui - Clicked On Login Button
+[INFO ] 2025-03-20 16:52:54.139 [main] qacontainerui - Home screen text is visible
+[INFO ] 2025-03-20 16:52:54.319 [main] qacontainerui - Dashboard menu button clicked successfully
+[INFO ] 2025-03-20 16:52:54.625 [main] qacontainerui - Planning solution clicked successfully
+[INFO ] 2025-03-20 16:52:54.936 [main] qacontainerui - Logistic Planning clicked successfully
+[INFO ] 2025-03-20 16:52:55.255 [main] qacontainerui - Transporter Performance Index tab clicked successfully
+[INFO ] 2025-03-20 16:52:57.681 [main] qacontainerui - click year field Successfully
+[INFO ] 2025-03-20 16:53:00.083 [main] qacontainerui - Year Entered Successfully
+[INFO ] 2025-03-20 16:53:02.658 [main] qacontainerui - click month field successfully
+[INFO ] 2025-03-20 16:53:05.058 [main] qacontainerui - Month selected Successfully
+[INFO ] 2025-03-20 16:53:07.559 [main] qacontainerui - plant selected Successfully
+[INFO ] 2025-03-20 16:53:09.793 [main] qacontainerui - Load Scenario Button Clicked Successfully
+[INFO ] 2025-03-20 16:53:25.726 [main] qacontainerui - selecting or creating scenerio is done
+[INFO ] 2025-03-20 16:54:26.870 [main] qacontainerui - Browser launched: chrome
+[INFO ] 2025-03-20 16:54:29.163 [main] qacontainerui - url open
+[INFO ] 2025-03-20 16:54:32.205 [main] qacontainerui - Entered username Successfully
+[INFO ] 2025-03-20 16:54:32.356 [main] qacontainerui - Entered password Successfully
+[INFO ] 2025-03-20 16:54:32.468 [main] qacontainerui - Clicked On Login Button
+[INFO ] 2025-03-20 16:54:33.278 [main] qacontainerui - Home screen text is visible
+[INFO ] 2025-03-20 16:54:33.465 [main] qacontainerui - Dashboard menu button clicked successfully
+[INFO ] 2025-03-20 16:54:33.806 [main] qacontainerui - Planning solution clicked successfully
+[INFO ] 2025-03-20 16:54:34.148 [main] qacontainerui - Logistic Planning clicked successfully
+[INFO ] 2025-03-20 16:54:34.542 [main] qacontainerui - Transporter Performance Index tab clicked successfully
+[INFO ] 2025-03-20 16:54:36.405 [main] qacontainerui - click year field Successfully
+[INFO ] 2025-03-20 16:54:38.319 [main] qacontainerui - Year Entered Successfully
+[INFO ] 2025-03-20 16:54:40.497 [main] qacontainerui - click month field successfully
+[INFO ] 2025-03-20 16:54:43.767 [main] qacontainerui - Month selected Successfully
+[INFO ] 2025-03-20 16:55:50.419 [main] qacontainerui - Browser launched: chrome
+[INFO ] 2025-03-20 16:57:12.143 [main] qacontainerui - url open
+[INFO ] 2025-03-20 16:58:57.093 [main] qacontainerui - Browser launched: chrome
+[INFO ] 2025-03-20 16:59:01.335 [main] qacontainerui - url open
+[INFO ] 2025-03-20 16:59:04.444 [main] qacontainerui - Entered username Successfully
+[INFO ] 2025-03-20 16:59:04.582 [main] qacontainerui - Entered password Successfully
+[INFO ] 2025-03-20 16:59:05.011 [main] qacontainerui - Clicked On Login Button
+[INFO ] 2025-03-20 16:59:08.216 [main] qacontainerui - Home screen text is visible
+[INFO ] 2025-03-20 16:59:08.389 [main] qacontainerui - Dashboard menu button clicked successfully
+[INFO ] 2025-03-20 16:59:11.031 [main] qacontainerui - Planning solution clicked successfully
+[INFO ] 2025-03-20 16:59:12.540 [main] qacontainerui - Logistic Planning clicked successfully
+[INFO ] 2025-03-20 16:59:12.883 [main] qacontainerui - Transporter Performance Index tab clicked successfully
+[INFO ] 2025-03-20 16:59:14.610 [main] qacontainerui - click year field Successfully
+[INFO ] 2025-03-20 16:59:17.275 [main] qacontainerui - Year Entered Successfully
+[INFO ] 2025-03-20 16:59:19.449 [main] qacontainerui - click month field successfully
+[INFO ] 2025-03-20 16:59:21.751 [main] qacontainerui - Month selected Successfully
+[INFO ] 2025-03-20 16:59:24.300 [main] qacontainerui - plant selected Successfully
+[INFO ] 2025-03-20 16:59:26.493 [main] qacontainerui - Load Scenario Button Clicked Successfully
+[INFO ] 2025-03-20 16:59:41.837 [main] qacontainerui - selecting or creating scenerio is done
+[INFO ] 2025-03-20 17:06:54.526 [main] qacontainerui - Browser launched: chrome
+[INFO ] 2025-03-20 17:06:55.227 [main] qacontainerui - url open
+[INFO ] 2025-03-20 17:07:39.194 [main] qacontainerui - Entered username Successfully
+[INFO ] 2025-03-20 17:07:39.361 [main] qacontainerui - Entered password Successfully
+[INFO ] 2025-03-20 17:07:39.682 [main] qacontainerui - Clicked On Login Button
+[INFO ] 2025-03-20 17:07:42.427 [main] qacontainerui - Home screen text is visible
+[INFO ] 2025-03-20 17:07:42.591 [main] qacontainerui - Dashboard menu button clicked successfully
+[INFO ] 2025-03-20 17:07:43.724 [main] qacontainerui - Planning solution clicked successfully
+[INFO ] 2025-03-20 17:07:47.464 [main] qacontainerui - Logistic Planning clicked successfully
+[INFO ] 2025-03-20 17:07:48.639 [main] qacontainerui - Transporter Performance Index tab clicked successfully
+[INFO ] 2025-03-20 17:07:51.890 [main] qacontainerui - click year field Successfully
+[INFO ] 2025-03-20 17:07:54.311 [main] qacontainerui - Year Entered Successfully
+[INFO ] 2025-03-20 17:07:56.503 [main] qacontainerui - click month field successfully
+[INFO ] 2025-03-20 17:07:58.945 [main] qacontainerui - Month selected Successfully
+[INFO ] 2025-03-20 17:08:01.550 [main] qacontainerui - plant selected Successfully
+[INFO ] 2025-03-20 17:08:03.807 [main] qacontainerui - Load Scenario Button Clicked Successfully
+[INFO ] 2025-03-20 17:21:56.153 [main] qacontainerui - Browser launched: chrome
+[INFO ] 2025-03-20 17:22:39.966 [main] qacontainerui - url open
+[INFO ] 2025-03-20 17:22:43.377 [main] qacontainerui - Entered username Successfully
+[INFO ] 2025-03-20 17:22:43.579 [main] qacontainerui - Entered password Successfully
+[INFO ] 2025-03-20 17:22:43.724 [main] qacontainerui - Clicked On Login Button
+[INFO ] 2025-03-20 17:22:46.077 [main] qacontainerui - Home screen text is visible
+[INFO ] 2025-03-20 17:22:46.283 [main] qacontainerui - Dashboard menu button clicked successfully
+[INFO ] 2025-03-20 17:22:46.911 [main] qacontainerui - Planning solution clicked successfully
+[INFO ] 2025-03-20 17:22:50.021 [main] qacontainerui - Logistic Planning clicked successfully
+[INFO ] 2025-03-20 17:22:51.060 [main] qacontainerui - Transporter Performance Index tab clicked successfully
+[INFO ] 2025-03-20 17:22:56.072 [main] qacontainerui - click year field Successfully
+[INFO ] 2025-03-20 17:22:58.898 [main] qacontainerui - Year Entered Successfully
+[INFO ] 2025-03-20 17:23:01.067 [main] qacontainerui - click month field successfully
+[INFO ] 2025-03-20 17:23:03.330 [main] qacontainerui - Month selected Successfully
+[INFO ] 2025-03-20 17:23:05.814 [main] qacontainerui - plant selected Successfully
+[INFO ] 2025-03-20 17:23:08.064 [main] qacontainerui - Load Scenario Button Clicked Successfully
